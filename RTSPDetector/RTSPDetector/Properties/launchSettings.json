@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RTSPDetector.WindowsService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "development"
+      }
+    }
+  }
+}
